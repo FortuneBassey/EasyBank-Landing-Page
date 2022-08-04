@@ -1,0 +1,1158 @@
+
+@media(min-width:320px){
+    .huddle{
+        background-image: url("./images/bg-hero-mobile.svg");
+        height: 400px;
+        padding: 50px;
+        background-repeat: no-repeat;
+    }
+    .logo{
+        width: 20px;
+        height: 30px;
+    }
+    .hudtext{
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .bui{
+        font-size: 1.3rem;
+    }
+    .begin{
+        display: flex;
+        flex-direction: column;
+    }
+    .btn1{
+        background-color: rgb(242, 246, 244);
+        border-radius: 6pc;
+        border-style: none;
+        margin-top: 20px;
+        height: 30px;
+        width: 150px;
+    }
+    .begin2{
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+    .get{
+        background-color: deeppink;
+        border-style: none;
+        border-radius: 4pc;
+        width: 13pc;
+        height: 48px;
+        position: relative;
+        top: 30px;
+    }
+    .buildimg{
+        width: 240px;
+        height: 180px;
+        margin-top: 10px;
+    }
+    .grow{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .growimg{
+        width: 200px;
+        height: 170px;
+    }
+    .flowing{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .flowimg{
+        width: 200px;
+        height: 170px;
+    }
+    .user{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .userimg{
+        width: 200px;
+        height: 170px;
+    }
+    .rebuild{
+        font-size: x-small;
+        margin: auto;
+        text-align: center;
+        border-style: groove;
+        border-radius: 10px;
+        width: 220px;
+        height: 110px;
+    align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 57px;
+        background-color: rgb(236, 229, 229);
+    
+    }
+    
+    .free{
+        background-color: fuchsia;
+        border-style: none;
+        border-radius: 4pc;
+        width: 10pc;
+        height: 30px;
+        position: relative;
+        top: 10px;
+        font-size: xx-small;
+    }
+    .huddle2{
+        background-color: rgb(17, 43, 63);
+        color: white;
+        padding-top: 7pc;
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        padding-top: 30px;
+        gap: 20px;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        padding-top: 20px;
+    }
+    .emailaddress{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        padding-top: 20px;
+    }
+    .logo2{
+        width: 150px;
+        height: 30px;
+    }
+    
+    .lore{
+        font-size: large;
+    }
+    .hudrow1{
+        width:300px;
+       display: flex;
+       flex-direction: column;
+    }
+    
+    .hudrow2{
+        display: flex;
+        flex-direction: column;
+        gap: 1pc;
+        padding-top: 2pc;
+        text-align: center;
+    }
+    .hudrow3{
+        display: flex;
+        flex-direction: column;
+    gap: 1pc;
+    padding-top: 1pc;
+        text-align: center;
+    }
+    .hudrow4{
+        align-content: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+}
+@media(min-width:425px){
+    .huddle{
+        background-image: url("./images/bg-hero-mobile.svg");
+        height: 400px;
+        padding: 50px;
+        background-repeat: no-repeat;
+    }
+    .logo{
+        width: 20px;
+        height: 30px;
+    }
+    .hudtext{
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .bui{
+        font-size: 1.3rem;
+    }
+    .begin{
+        display: flex;
+        flex-direction: column;
+    }
+    .btn1{
+        background-color: rgb(242, 246, 244);
+        border-radius: 6pc;
+        border-style: none;
+        margin-top: 20px;
+        height: 30px;
+        width: 150px;
+    }
+    .begin2{
+        display: flex;
+        flex-direction: column;
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+    .get{
+        background-color: deeppink;
+        border-style: none;
+        border-radius: 4pc;
+        width: 13pc;
+        height: 48px;
+        position: relative;
+        top: 30px;
+    }
+    .buildimg{
+        width: 300px;
+        height: 200px;
+        margin-top: 10px;
+    }
+    .grow{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .growimg{
+        width: 200px;
+        height: 170px;
+    }
+    .flowing{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .flowimg{
+        width: 200px;
+        height: 170px;
+    }
+    .user{
+        font-size: smaller;
+        text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
+        width: 200px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .userimg{
+        width: 200px;
+        height: 170px;
+    }
+    .rebuild{
+        font-size: x-small;
+        margin: auto;
+        text-align: center;
+        border-style: groove;
+        border-radius: 10px;
+        width: 220px;
+        height: 110px;
+    align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 57px;
+        background-color: rgb(236, 229, 229);
+    
+    }
+    
+    .free{
+        background-color: fuchsia;
+        border-style: none;
+        border-radius: 4pc;
+        width: 10pc;
+        height: 30px;
+        position: relative;
+        top: 10px;
+        font-size: xx-small;
+    }
+    .huddle2{
+        background-color: rgb(17, 43, 63);
+        color: white;
+        padding-top: 7pc;
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        padding-top: 30px;
+        gap: 20px;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        padding-top: 20px;
+    }
+    .emailaddress{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        padding-top: 20px;
+    }
+    .logo2{
+        width: 150px;
+        height: 30px;
+    }
+    
+    .lore{
+        font-size: large;
+    }
+    .hudrow1{
+        width:300px;
+       display: flex;
+       flex-direction: column;
+    }
+    
+    .hudrow2{
+        display: flex;
+        flex-direction: column;
+        gap: 1pc;
+        padding-top: 2pc;
+        text-align: center;
+    }
+    .hudrow3{
+        display: flex;
+        flex-direction: column;
+    gap: 1pc;
+    padding-top: 1pc;
+        text-align: center;
+    }
+    .hudrow4{
+        align-content: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+}
+@media(min-width:768px){
+    .huddle{
+        background-image: url("./images/bg-hero-desktop.svg");
+        height: 400px;
+        padding: 50px;
+    }
+    .hudtext{
+        padding-bottom: 30px;
+    }
+    .begin{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .btn1{
+        background-color: rgb(242, 246, 244);
+        border-radius: 6pc;
+        border-style: none;
+    
+        height: 30px;
+        width: 150px;
+    }
+    .begin2{
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+    .get{
+        background-color: deeppink;
+        border-style: none;
+        border-radius: 4pc;
+        width: 10pc;
+        height: 30px;
+        position: relative;
+        top: 30px;
+        right: 2pc;
+    }
+    .buildimg{
+        width: 280px;
+        height: 240px;
+    }
+    .grow{
+        display: flex;
+        flex-direction: row;
+        width: 420px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        
+        padding-top: 1px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .growimg{
+        width: 270px;
+        height: 230px;
+    }
+    .flowing{
+        display: flex;
+        flex-direction: row;
+        width:520px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+        
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .flowimg{
+        width: 300px;
+        height: 270px;
+    }
+    .user{
+        display: flex;
+        flex-direction: row;
+        width: 600px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+       
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .userimg{
+        width: 310px;
+        height: 275px;
+    }
+    .rebuild{
+        margin: auto;
+        border-style: groove;
+        border-radius: 10px;
+        width: 550px;
+        height: 200px;
+    align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 57px;
+        background-color: rgb(236, 229, 229);
+    
+    }
+    .free{
+        background-color: fuchsia;
+        border-style: none;
+        border-radius: 4pc;
+        width: 13pc;
+        height: 40px;
+        position: relative;
+        top: 10px;
+    }
+    .huddle2{
+        background-color: rgb(17, 43, 63);
+        color: white;
+        padding-top: 7pc;
+        display: flex;
+        flex-direction: row;
+        padding-left: 60px;
+        padding-bottom: 40px;
+        width: 94%;
+    }
+    .lore{
+        font-size: smaller;
+
+    }
+    .ex{
+        font-size: smaller;
+    }
+    .no{
+        font-size: smaller;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        padding-top: 30px;
+        gap: 5px;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+    .hudrow1{
+        width:300px;
+       display: flex;
+       flex-direction: column;
+
+    }
+    .hudrow1text{
+        column-gap: 20px;
+    }
+    .hudrow2{
+        font-size: small;
+
+        display: flex;
+        flex-direction: column;
+        gap: 1pc;
+        padding-top: 5pc;
+        padding-left: 4pc;
+        font-size: small;
+
+    }
+    .hudrow3{
+        font-size: small;
+        display: flex;
+        flex-direction: column;
+    gap: 1pc;
+    padding-top: 5pc;
+    padding-left: 2pc;
+    
+    }
+    .hudrow4{
+        padding-left: 2pc;
+        padding-top: 5pc;
+    }
+}
+@media(min-width:1024px){
+    .huddle{
+        background-image: url("./images/bg-hero-desktop.svg");
+        height: 400px;
+        padding: 50px;
+    }
+    .hudtext{
+        padding-bottom: 30px;
+    }
+    .begin{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .btn1{
+        background-color: rgb(242, 246, 244);
+        border-radius: 6pc;
+        border-style: none;
+    
+        height: 30px;
+        width: 150px;
+    }
+    .begin2{
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+    .get{
+        background-color: deeppink;
+        border-style: none;
+        border-radius: 4pc;
+        width: 10pc;
+        height: 30px;
+        position: relative;
+        top: 30px;
+        right: 2pc;
+    }
+    .buildimg{
+        width: 400px;
+        height: 300px;
+    }
+    .grow{
+        display: flex;
+        flex-direction: row;
+        width: 440px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        
+        padding-top: 1px;
+        padding-bottom: 40px;
+        margin-top: 50px;
+    }
+    .growimg{
+        width: 270px;
+        height: 230px;
+    }
+    .flowing{
+        display: flex;
+        flex-direction: row;
+        width:550px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+        
+        padding-bottom: 40px;
+        margin-top: 50px;
+    
+    }
+    .flowimg{
+        width: 300px;
+        height: 270px;
+    }
+    .user{
+        display: flex;
+        flex-direction: row;
+        width: 650px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+       
+        padding-bottom: 40px;
+        margin-top: 50px;
+    
+    }
+    .userimg{
+        width: 310px;
+        height: 275px;
+    }
+    .rebuild{
+        margin: auto;
+        border-style: groove;
+        border-radius: 10px;
+        width: 550px;
+        height: 200px;
+    align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 57px;
+        background-color: rgb(236, 229, 229);
+    
+    }
+    .free{
+        background-color: fuchsia;
+        border-style: none;
+        border-radius: 4pc;
+        width: 13pc;
+        height: 40px;
+        position: relative;
+        top: 10px;
+    }
+    .huddle2{
+        background-color: rgb(17, 43, 63);
+        color: white;
+        padding-top: 7pc;
+        display: flex;
+        flex-direction: row;
+        padding-left: 90px;
+        padding-bottom: 40px;
+        width: 94%;
+    }
+    .lore{
+        font-size: smaller;
+
+    }
+    .ex{
+        font-size: smaller;
+    }
+    .no{
+        font-size: smaller;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        padding-top: 30px;
+        gap: 5px;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+    .hudrow1{
+        width:300px;
+       display: flex;
+       flex-direction: column;
+
+    }
+    .hudrow1text{
+        column-gap: 20px;
+    }
+    .hudrow2{
+        font-size: small;
+
+        display: flex;
+        flex-direction: column;
+        gap: 1pc;
+        padding-top: 5pc;
+        padding-left: 6pc;
+        font-size: small;
+
+    }
+    .hudrow3{
+        font-size: small;
+        display: flex;
+        flex-direction: column;
+    gap: 1pc;
+    padding-top: 5pc;
+    padding-left: 4pc;
+    
+    }
+    .hudrow4{
+        padding-left: 4pc;
+        padding-top: 5pc;
+    }
+}
+
+@media(min-width:1280px){
+.huddle{
+    background-image: url("./images/bg-hero-desktop.svg");
+    height: 400px;
+    padding: 50px;
+}
+.hudtext{
+    padding-bottom: 30px;
+}
+.begin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn1{
+    background-color: rgb(242, 246, 244);
+    border-radius: 6pc;
+    border-style: none;
+
+    height: 30px;
+    width: 150px;
+}
+.begin2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.get{
+    background-color: deeppink;
+    border-style: none;
+    border-radius: 4pc;
+    width: 13pc;
+    height: 48px;
+    position: relative;
+    top: 30px;
+}
+.buildimg{
+    width: 500px;
+    height: 380px;
+}
+.grow{
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 4px;
+    border-style: groove;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: 100px;
+}
+.growimg{
+    width: 350px;
+    height: 300px;
+}
+.flowing{
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 4px;
+    border-style: groove;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: 100px;
+
+}
+.flowimg{
+    width: 350px;
+    height: 300px;
+}
+.user{
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 4px;
+    border-style: groove;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: 100px;
+
+}
+.userimg{
+    width: 350px;
+    height: 300px;
+}
+.rebuild{
+    margin: auto;
+    border-style: groove;
+    border-radius: 10px;
+    width: 550px;
+    height: 200px;
+align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 57px;
+    background-color: rgb(236, 229, 229);
+
+}
+.free{
+    background-color: fuchsia;
+    border-style: none;
+    border-radius: 4pc;
+    width: 15pc;
+    height: 48px;
+    position: relative;
+    top: 10px;
+}
+.huddle2{
+    background-color: rgb(17, 43, 63);
+    color: white;
+    padding-top: 7pc;
+    display: flex;
+    flex-direction: row;
+    padding-left: 120px;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    gap: 5px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.hudrow1{
+    width:300px;
+   display: flex;
+   flex-direction: column;
+}
+.hudrow1text{
+    column-gap: 20px;
+}
+.hudrow2{
+    display: flex;
+    flex-direction: column;
+    gap: 1pc;
+    padding-top: 5pc;
+    padding-left: 9pc;
+}
+.hudrow3{
+    display: flex;
+    flex-direction: column;
+gap: 1pc;
+padding-top: 5pc;
+padding-left: 4pc;
+
+}
+}
+@media(min-width:1440px){
+    .huddle{
+        background-image: url("./images/bg-hero-desktop.svg");
+        height: 400px;
+        padding: 50px;
+    }
+    .hudtext{
+        padding-bottom: 30px;
+        font-size: x-large;
+        padding-right: 10pc;
+    }
+    .begin{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .bui{
+        font-size: xx-large;
+    }
+    .btn1{
+        background-color: rgb(242, 246, 244);
+        border-radius: 6pc;
+        border-style: none;
+    
+        height: 30px;
+        width: 150px;
+    }
+    .begin2{
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        justify-content: space-between;
+    }
+    .get{
+        background-color: deeppink;
+        border-style: none;
+        border-radius: 4pc;
+        width: 13pc;
+        height: 48px;
+        position: relative;
+        top: 80px;
+        right: 10pc;
+    }
+    .buildimg{
+        width: 500px;
+        height: 380px;
+    }
+    .grow{
+        display: flex;
+        flex-direction: row;
+        width: 700px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    }
+    .growimg{
+        width: 350px;
+        height: 300px;
+    }
+    .flowing{
+        display: flex;
+        flex-direction: row;
+        width: 700px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .flowimg{
+        width: 350px;
+        height: 300px;
+    }
+    .user{
+        display: flex;
+        flex-direction: row;
+        width: 700px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 4px;
+        border-style: groove;
+        padding-left: 60px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        margin-top: 100px;
+    
+    }
+    .userimg{
+        width: 350px;
+        height: 300px;
+    }
+    .rebuild{
+        margin: auto;
+        border-style: groove;
+        border-radius: 10px;
+        width: 550px;
+        height: 200px;
+    align-items: center;
+    font-size: large;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: 57px;
+        background-color: rgb(236, 229, 229);
+    
+    }
+    .free{
+        background-color: fuchsia;
+        border-style: none;
+        border-radius: 4pc;
+        width: 15pc;
+        height: 48px;
+        position: relative;
+        top: 10px;
+        font-size: large;
+    }
+    .huddle2{
+        background-color: rgb(17, 43, 63);
+        color: white;
+        padding-top: 7pc;
+        display: flex;
+        flex-direction: row;
+        padding-left: 120px;
+        padding-bottom: 60px;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        padding-top: 30px;
+        gap: 5px;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+    .hudrow1{
+        width:300px;
+       display: flex;
+       flex-direction: column;
+    }
+    .hudrow1text{
+        column-gap: 20px;
+    }
+    .hudrow2{
+        display: flex;
+        flex-direction: column;
+        gap: 1pc;
+        padding-top: 5pc;
+        padding-left: 10pc;
+    }
+    .hudrow3{
+        display: flex;
+        flex-direction: column;
+    gap: 1pc;
+    padding-top: 5pc;
+    padding-left: 5pc;
+    
+    }
+.hudrow4{
+    padding-top: 7pc;
+    padding-left: 20pc;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
